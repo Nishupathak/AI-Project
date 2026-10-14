@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f640bc61-2cb2-4d12-bb4f-aa1140fa9893" />
 # AI Robot — voice + vision assistant
 
 Talk to it, show it things, and it answers out loud.
