@@ -3,7 +3,7 @@
 A voice-controlled assistant built end to end: you talk to it, show it things, and it answers out loud.
 It combines computer vision, speech, an LLM, a REST API, a database and a React dashboard, all running on one laptop.
 
-![Live dashboard](docs/live.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f640bc61-2cb2-4d12-bb4f-aa1140fa9893" />
 
 ## Features
 - **Face detection, expressions and finger counting** (MediaPipe)
