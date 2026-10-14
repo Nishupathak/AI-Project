@@ -1,0 +1,13 @@
+venv/
+venv312/
+__pycache__/
+api_key.txt
+robot.db
+people.json*
+photos/
+*.onnx
+*.task
+*.tflite
+frontend/node_modules/
+frontend/dist/
+Include/
