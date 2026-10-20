@@ -14,7 +14,7 @@ It combines computer vision, speech, an LLM, a REST API, a database and a React 
 - **Voice skills:** open any installed app, search Google or YouTube, take photos, time and date, jokes
 - **React dashboard:** live video HUD, emotion signals, face-embedding view, analytics charts, API explorer, photo gallery, dark/light mode with accent colours, command palette (Ctrl+K)
 
-## Tech stack
+## Tech stack used
 | Area | Tools |
 |---|---|
 | Backend | Python, FastAPI, Uvicorn, background worker threads |
