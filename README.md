@@ -5,7 +5,7 @@ It combines computer vision, speech, an LLM, a REST API, a database and a React 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f640bc61-2cb2-4d12-bb4f-aa1140fa9893" />
 
-## Features
+## Features of THIS
 - **Face detection, expressions and finger counting** (MediaPipe)
 - **Face recognition:** teach it your face ("remember me as Nishu") and it labels you on screen
 - **Age range estimation** from a face crop
